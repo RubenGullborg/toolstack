@@ -1,7 +1,7 @@
 export default function Hero() {
     return (
-      <div className="font-sans min-h-screen">
-        <main className="flex flex-col items-center justify-center min-h-screen px-6 ">
+      <div className="font-sans">
+        <main className="flex flex-col items-center justify-center min-h-[65vh] px-6 ">
           <section className="w-full flex flex-col items-center justify-center text-center ">
             <h1 className="text-4xl sm:text-6xl font-bold tracking-tight">
               The no bullsh*t best developer toolstack

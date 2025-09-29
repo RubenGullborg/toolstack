@@ -1,7 +1,7 @@
 import React from "react";
 import { LinkPreview } from "@/components/ui/LinkPreview";
 
-type ToolCardProps = {
+export type ToolCardProps = {
   title: string;
   description: string;
   category: string;
