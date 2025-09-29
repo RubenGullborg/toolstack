@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@radix-ui/react-hover-card": "^1.1.15",
+    "clsx": "^2.1.1",
+    "motion": "^12.23.22",
+    "qss": "^3.0.0",
+    "tailwind-merge": "^3.3.1"
+  }
+}
