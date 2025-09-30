@@ -17,15 +17,15 @@ export default function Home() {
     },
     {
       title: "Firecrawl",
-      description: "Point, crawl, conquer. This crawler just rips through sites and gives me all the good stuff that i want.",
+      description: "Point, crawl, conquer. Aim at a site, pull the trigger, and this crawler rips all the data you want clean outta there.",
       category: "Crawler",
       url: "https://www.firecrawl.dev/",
     },
     {
-      title: "Ultrasite",
-      description: "A ridiculously fast rocket of a linter. Slaps tf outta bad code before it gets a chance to see the daylight.",
+      title: "Ultracite",
+      description: "A ridiculously fast rocket of a linter. Slaps tf outta bad code before it even gets a chance to see daylight.",
       category: "Linter",
-      url: "#",
+      url: "https://www.ultracite.ai/",
     },
     {
       title: "Raycast",
@@ -35,22 +35,28 @@ export default function Home() {
     },
     {
       title: "Shots",
-      description: "You want clean asf mock photos of your app in a shiny MacBook, lookin' like money? They got u",
+      description: "Turn your boring-ass screenshots into clean asf mock photos of your app in a shiny MacBook.",
       category: "Mocks",
       url: "https://shots.so/"
     },
     {
-      title: "Oblivion",
-      description: "Note taking with attitude. Catch all your ideas and feel like a fu*king mastermind while doing it.",
+      title: "Obsidian",
+      description: "Hoard notes, connect thoughts, and feel like a f*cking wizard mapping the universe.",
       category: "Note taking",
-      url: "https://shots.so/"
+      url: "https://obsidian.md/"
     },
     {
     title: "Excalidraw",
-    description: "Sketchy style diagrams. They're ugly as fu*k but its fast as hell.",
+    description: "The virtual equivilant of pen and paper. Its never been easier to sketch ugly diagrams.",
     category: "Note taking",
-    url: "https://shots.so/"
+    url: "https://excalidraw.com/"
     },
+    {
+      title: "Ray.so",
+      description: "Turn your ugly-ass code into poster material. Sexy snippets in seconds, zero effort.",
+      category: "Mocks",
+      url: "https://ray.so/"
+    }
   ];
 
   return (
