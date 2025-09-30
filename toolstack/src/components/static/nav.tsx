@@ -4,7 +4,7 @@ export default function Nav() {
   return(
     <nav className="mx-auto max-w-7xl px-6 h-14 flex items-center justify-between">
       <a href="/" className="flex items-center gap-2 text-sm font-semibold tracking-tight">
-        <span className="hidden sm:inline">Toolstack</span>
+        <span className="">Toolstack</span>
       </a>
       <a
         href="/about"
