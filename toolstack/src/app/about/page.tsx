@@ -32,7 +32,7 @@ export default function About(){
           </span>
         </div>
 
-        <div className="grid grid-cols-1 gap-3 mt-10 sm:grid-cols-2">
+        <div className="grid grid-cols-1 gap-3 mt-10 sm:grid-cols-2"> 
           <div className="rounded-lg border border-neutral-800 bg-neutral-950/50 p-4 text-left sm:text-center">
             <p className="text-sm text-neutral-300">
               <span className="font-semibold text-white">My philosophy:</span> Why use many tools, when few tools do? Spend time where it counts.
