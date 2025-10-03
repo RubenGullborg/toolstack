@@ -29,7 +29,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <div className="min-h-screen flex flex-col text-neutral-100 bg-[linear-gradient(135deg,_#0a0a0a_0%,_#0b0b0b_40%,_#000_100%)]">
+        <div className="min-h-screen flex flex-col text-neutral-100 bg-black">
           <header className="">
             <Nav />
           </header>

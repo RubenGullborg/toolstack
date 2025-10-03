@@ -2,7 +2,7 @@ import Link from "next/link"
 
 export default function Nav() {
   return (
-    <nav className="sticky top-0 z-50 w-full bg-black">
+    <nav className="sticky top-0 z-50 w-full bg-transparent">
       <div className="mx-auto max-w-7xl px-6 h-16 flex items-center justify-between">
         <Link
           href="/"
